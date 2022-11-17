@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica;
+}
+
+footer {
+    border-color: bisque;
+    background-color: blanchedalmond;
+}
+
+header {
+    border-color: aqua;
+    background-color: aquamarine;
+}
+
+main {
+    background-color: beige;
+}
+
+nav a:hover {
+    background-color: yellow;
+}
+
+ul {
+    list-style: none;
+}
+
+.book-title {
+    font-style: italic;
+}
